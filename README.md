@@ -5,7 +5,7 @@
 #
 ## Project Details
 #
-Fleek Commerce is a E-Cemmerce (Amazon, eBay, Walmart, Etsy) Store Management Agency Landing Page.
+Fleek Commerce is an E-commerce (Amazon, eBay, Walmart, Etsy) Store Management Agency Landing Page.
 #
 ### `Technology Use`
 #
@@ -13,7 +13,7 @@ Fleek Commerce is a E-Cemmerce (Amazon, eBay, Walmart, Etsy) Store Management Ag
 2. React Hooks
 3. Event Handlers
 4. Arrow Functions
-5. React Testify
+5. React Tostify
 6. EmailJs-com
 7. Swiper
 8. Font Awesome
